@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there 👋 I'm itzLan
 
-<!--
-**itzLan1126/itzLan1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  > Exploring the frontier of AI-assisted development — building with agents,
+  prompts, and full-stack code.
 
-Here are some ideas to get you started:
+  ### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![My Skills](https://skillicons.dev/icons?i=java,python,ts,git,nextjs,postgresql)](https://skillicons.dev)
+
+  
+  ### 🔭 What I'm Into
+
+  - 🤖 Vibe coding with AI agents & prompt engineering
+  - 🏗️ Full-stack apps with practical AI workflows
+  - 🌐 Open-source ecosystems & developer tools
+
+  ---
+  <p align="center">
+    <i>Building the future, one prompt at a time.</i>
+  </p>
