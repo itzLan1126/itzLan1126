@@ -5,7 +5,7 @@
 
   ### 🛠 Tech Stack
 
-  [![My Skills](https://skillicons.dev/icons?i=java,python,ts,git,nextjs,postgresql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,ts,git,nextjs,postgresql)](https://skillicons.dev)
 
   
   ### 🔭 What I'm Into
