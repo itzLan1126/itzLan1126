@@ -1,22 +1,27 @@
-## Hey there 👋 I'm itzLan
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/logo-dark.svg"
+    >
+    <img
+      src="assets/logo-light.svg"
+      alt="itzLan."
+      height="40"
+    >
+  </picture>
+</p>
 
-  > Exploring the frontier of AI-assisted development — building with agents,
-  prompts, and full-stack code.
+A developer who enjoys turning ideas into simple, reliable things.
 
-  ### 🛠 Tech Stack
+### About
 
-  [![Languages](https://skillicons.dev/icons?i=python,java,swift,rust)](https://skillicons.dev)
-  [![Web](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
-  [![Tools](https://skillicons.dev/icons?i=git,docker,nextjs,postgresql)](https://skillicons.dev)
+I like building apps, creating practical tools, and exploring better ways to work with AI agents. I stay curious and keep learning, always looking for ways to make life easier. I value simplicity and reliability, and believe thoughtful design can do more with less.
 
-  
-  ### 🔭 What I'm Into
+### Tech Stack
 
-  - 🤖 Vibe coding with AI agents & prompt engineering
-  - 🏗️ Full-stack apps with practical AI workflows
-  - 🌐 Open-source ecosystems & developer tools
+**Languages:** Python · Java · TypeScript · Swift · Rust
 
-  ---
-  <p align="center">
-    <i>Building the future, one prompt at a time.</i>
-  </p>
+**Frameworks:** React · Next.js · Tailwind CSS · SwiftUI
+
+**Tools:** Git · Docker · Node.js · PostgreSQL
